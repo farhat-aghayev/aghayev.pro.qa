@@ -17,10 +17,10 @@
  */
 export const site = {
   title: 'Aghayev Farhat', // required
-  favicon: '/astro-yi/favicon.svg', // required
+  favicon: 'favicon.svg', // required
   description: 'Welcome to my independent blog website! ',
   author: "Aghayev Farhat", // required
-  avatar: '/astro-yi/FT.jpg', // required
+  avatar: 'FT.jpg', // required
   motto: "I'm Farhat Aghayev GRC Practitioner, ITIL 4 Managing Professional.",
   url: 'https://jakobnutson.github.io/astro-yi',
   recentBlogSize: 5,
@@ -50,27 +50,27 @@ export const categories = [
   {
     name: "Blog",
     iconClass: "ri-draft-line",
-    href: "/astro-yi/blog/1",
+    href: "blog/1",
   },
   {
     name: "Feed",
     iconClass: "ri-lightbulb-flash-line",
-    href: "/astro-yi/feed/1",
+    href: "feed/1",
   },
   // {
   //   name: "Archive",
   //   iconClass: "ri-archive-line",
-  //   href: "/astro-yi/archive/1",
+  //   href: "archive/1",
   // },
   // {
   //   name: "Message",
   //   iconClass: "ri-chat-1-line",
-  //   href: "/astro-yi//message",
+  //   href: "/message",
   // },
   {
     name: "Search",
     iconClass: "ri-search-line",
-    href: "/astro-yi/search",
+    href: "search",
   },
   {
     name: "More",
@@ -80,12 +80,12 @@ export const categories = [
       {
         name: 'About',
         iconClass: 'ri-information-line',
-        href: '/astro-yi/about',
+        href: 'about',
       },
       // {
       //   name: 'Friends',
       //   iconClass: 'ri-user-5-line',
-      //   href: '/astro-yi/friends',
+      //   href: 'friends',
       //   target: '_self',
       // },
     ]
