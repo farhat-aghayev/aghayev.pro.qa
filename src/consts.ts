@@ -22,7 +22,7 @@ export const site = {
   author: "Aghayev Farhat", // required
   avatar: 'FT.jpg', // required
   motto: "I'm Farhat Aghayev GRC Practitioner, ITIL 4 Managing Professional.",
-  url: 'https://jakobnutson.github.io/astro-yi',
+  url: 'https://aghayev.pro',
   recentBlogSize: 5,
   archivePageSize: 25,
   postPageSize: 10,
@@ -119,7 +119,7 @@ export const infoLinks = [
   {
     icon: 'ri-rss-fill',
     name: 'rss',
-    outlink: 'https://astro-yi-nu.vercel.app/rss.xml',
+    outlink: 'https://aghayev.pro/rss.xml',
   }
 ]
 
