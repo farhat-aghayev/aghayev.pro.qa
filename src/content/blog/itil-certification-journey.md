@@ -4,11 +4,7 @@ description: Small post about costs related to ITIL certification journey
 date: 2023-04-25
 tags:
   - ITIL
-image: 
-    src: 'itil-journey.jpg'
 ---
-
-#![](itil-journey.jpg)
 
 Embarking on the ITIL certification journey is a decision that ultimately depends on your goals and priorities. However, I can provide some guidance on what to expect along the way.
 
