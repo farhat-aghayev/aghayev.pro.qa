@@ -5,8 +5,6 @@ date: 2023-09-15
 tags:
   - ISO27001
   - Case
-image: 
-    src: 'csat-logo.svg'
 created: 09 Mar 2024, 2:48
 modified: 09 Mar 2024, 4:22
 ---
